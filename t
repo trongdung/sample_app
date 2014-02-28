@@ -1,1 +1,1 @@
-bundle exec rspec spec/requests/static_pages_spec.rb
+bundle exec rspec spec/requests/user_pages_spec.rb
